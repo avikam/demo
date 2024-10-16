@@ -7,7 +7,7 @@
     "main": "node index.js"
   },
   "dependencies": {
-    "hot-formula-parser": "^3.0.0",
+    "hot-formula-parser": "^3.0.1",
     "lodash": "^3.10.1"
   }
 }
